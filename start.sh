@@ -20,5 +20,8 @@ function startSetup() {
 # Start setup and create bot info file:
 [ ! -f "BotInformation.lua" ] && startSetup
 
+# Update bot files if new changes:
+git pull
+
 # Start the bot:
 luvit main.lua || echo -e "The bot was terminated on $(date)!"
