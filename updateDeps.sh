@@ -2,7 +2,6 @@
 # This script updates all the dependancies
 
 LIT_DEPS=( 'SinisterRectus/discordia' )
-
 CMDS=()
 
 

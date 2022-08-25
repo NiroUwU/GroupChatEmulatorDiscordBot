@@ -14,6 +14,8 @@ i was forced to make this
 
 + bash
 
++ git
+
 + [Luvit runtime](https://github.com/luvit/luvit)
 
 + Masochistic personality traits
